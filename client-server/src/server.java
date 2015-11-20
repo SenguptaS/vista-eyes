@@ -1,6 +1,13 @@
 import java.io.*;
 import java.net.*;
 
+/*
+ * Author : Shivakumar S
+ * Date: 19/11/2015
+ * Server program which is the resident program which qeries network informaiotn and 
+ * sends to connected client.
+ */
+
 public class server{
 
 	public void go() {
